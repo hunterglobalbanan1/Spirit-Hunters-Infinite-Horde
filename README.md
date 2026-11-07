@@ -199,3 +199,6 @@ This repository serves as the official landing page for Spirit Hunters: Infinite
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Spirit Hunters: Infinite Horde today!**
+
+---
+**Last updated:** 2026-11-07 16:40:34 UTC
