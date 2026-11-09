@@ -201,4 +201,4 @@ This repository serves as the official landing page for Spirit Hunters: Infinite
 **Get the most recent version of Spirit Hunters: Infinite Horde today!**
 
 ---
-**Last updated:** 2026-11-09 10:33:51 UTC
+**Last updated:** 2026-11-09 21:11:27 UTC
